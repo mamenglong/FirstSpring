@@ -29,6 +29,7 @@ public class BingPic {
   
     public void Start() {
 
+
 //
 //        if (!threadOfSetDeskBackGround.IsAlive)
 //        {
